@@ -4,9 +4,9 @@
 
 int main(void) {
 
-    printf("A punto de suspender ejecucion por tres segundos\n");
-    sleep(3);
-    printf("Suspendido por tres segundos\n");
+    printf("A punto de suspender ejecucion por cinco segundos\n");
+    sleep(5);
+    printf("Suspendido por cinco segundos\n");
 
     return(EXIT_SUCCESS);
 }
